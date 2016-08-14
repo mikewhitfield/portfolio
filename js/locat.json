@@ -1,0 +1,12 @@
+{
+    "d": [
+
+	 {
+            "lat": "40.474636",
+            "lng":"-88.95647",
+            "title": "Bloomington , IL",
+            "icon":"js/marker.png",
+            "summary": "This is where i operate!"
+        }		
+    ]
+}

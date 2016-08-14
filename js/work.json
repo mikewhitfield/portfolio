@@ -1,0 +1,30 @@
+{
+    "projects": [
+
+		 {
+            "title": "Smothered Chicken",
+            "link": "Chicken",
+            "summary": 8.94,
+	    "tech": ["html5","JS","CSS","tech1","tech2"]
+        },
+        {
+            "title": "Smothered Chicken",
+            "link": "Chicken",
+           "summary": 8.94,
+	    "tech": ["html5","JS","CSS","tech1","tech2"]
+        },
+        {
+            "title": "Smothered Chicken",
+            "link": "Chicken",
+            "summary": 8.94,
+	    "tech": ["html5","JS","CSS","tech1","tech2"]
+        },
+        {
+            "name": "Smothered Chicken",
+            "type": "Chicken",
+            "summary": 8.94,
+	    "tech": ["html5","JS","CSS","tech1","tech2"]
+	
+        }		
+    ]
+}
